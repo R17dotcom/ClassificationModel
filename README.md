@@ -24,5 +24,5 @@ Employee attrition is a major challenge for organizations. This project leverage
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/R17dotcom/employee-attrition-prediction.git
-cd employee-attrition-prediction
+git clone https://github.com/R17dotcom/streamlit-employee-turnover.git
+cd streamlit-employee-turnover
